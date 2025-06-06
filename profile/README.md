@@ -3,7 +3,7 @@
 
 
 <img src="../img/logo.png" width="300px" height="150px" title="Team Logo" alt="Logo"></img><br/>
-<img src="" width="300px" height="150px" title="Team Logo" alt="Logo"></img><br/>
+<img src="../img/main_character.png" width="250px" height="250px" title="Team Logo" alt="Logo"></img><br/>
 
 ##  프로젝트 개요
 
